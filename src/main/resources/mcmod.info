@@ -1,0 +1,16 @@
+[
+{
+  "modid": "blockdamage",
+  "name": "Block Damage",
+  "description": "A system for progress on block destruction.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Shadows_of_Fire"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
